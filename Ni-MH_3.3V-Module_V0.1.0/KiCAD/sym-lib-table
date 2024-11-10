@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TPS61021ADSGR")(type "KiCad")(uri "${KIPRJMOD}/other.footprints/TPS61021ADSGR/TPS61021ADSGR.kicad_sym")(options "")(descr ""))
+  (lib (name "DFE252012P-R47M_P2")(type "KiCad")(uri "${KIPRJMOD}/other.footprints/DFE252012P-R47M_P2/DFE252012P-R47M_P2.kicad_sym")(options "")(descr ""))
+  (lib (name "2024-07-20_15-07-44")(type "KiCad")(uri "${KIPRJMOD}/CUHS20S30_H3F/2024-07-20_15-07-44.kicad_sym")(options "")(descr ""))
+  (lib (name "yozolab")(type "KiCad")(uri "${KIPRJMOD}/YozoLab.footprints/yozolab.kicad_sym")(options "")(descr ""))
+)

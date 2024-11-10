@@ -1,0 +1,15 @@
+(footprint "Through-Hole" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (property "Sheetfile" "ESP32C3-MINI-1_Module.kicad_sch")
+  (property "Sheetname" "")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -1.27 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.1)))
+    (tstamp c6a18677-f76e-43db-83a4-e31c84acd27d)
+  )
+  (fp_text value "~" (at 0 1 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 4ce0775c-1e70-4474-8e5b-277fcdbc7f96)
+  )
+  (pad "1" thru_hole circle (at 0 0) (size 1.7 1.7) (drill oval 1) (layers "*.Cu" "*.Mask") (tstamp 9debcd24-581c-4e2b-aa0f-1668e0bbec6e))
+)

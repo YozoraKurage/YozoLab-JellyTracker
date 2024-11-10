@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Yozolab")(type "KiCad")(uri "${KIPRJMOD}/YozoLab.footprints")(options "")(descr ""))
+  (lib (name "CUHS20S30_H3F")(type "KiCad")(uri "${KIPRJMOD}/other.footprints/CUHS20S30_H3F")(options "")(descr ""))
+  (lib (name "DFE252012P-R47M_P2")(type "KiCad")(uri "${KIPRJMOD}/other.footprints/DFE252012P-R47M_P2")(options "")(descr ""))
+  (lib (name "LM66100DCKR")(type "KiCad")(uri "${KIPRJMOD}/other.footprints/LM66100DCKR")(options "")(descr ""))
+  (lib (name "TPS61021ADSGR")(type "KiCad")(uri "${KIPRJMOD}/other.footprints/TPS61021ADSGR")(options "")(descr ""))
+)
