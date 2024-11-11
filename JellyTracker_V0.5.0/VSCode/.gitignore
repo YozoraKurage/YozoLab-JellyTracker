@@ -1,1 +1,4 @@
+.gitignore
 /JT-V0.5.0-dynamic-sfusion
+/JT-V0.5.0-sfusion-tuned-mbe
+/JT-V0.5.0-LSM6DSV-sfusion
